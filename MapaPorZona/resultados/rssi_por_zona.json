@@ -1,0 +1,282 @@
+{
+  "Escada - Zona 1": {
+    "Tenda": [
+      -69,
+      -70
+    ],
+    "Archer": [
+      -73,
+      -74
+    ]
+  },
+  "Escada - Zona 2": {
+    "Tenda": [
+      -69,
+      -70
+    ],
+    "Archer": [
+      -73,
+      -74
+    ]
+  },
+  "\u00c1rea Externa - Zona 1": {
+    "Tenda": [
+      -57,
+      -63
+    ],
+    "Archer": [
+      -73,
+      -78
+    ]
+  },
+  "\u00c1rea Externa - Zona 2": {
+    "Tenda": [
+      -45,
+      -47
+    ],
+    "Archer": [
+      -65,
+      -69
+    ]
+  },
+  "\u00c1rea Externa - Zona 3": {
+    "Tenda": [
+      -48,
+      -52
+    ],
+    "Archer": [
+      -73,
+      -74
+    ]
+  },
+  "Cozinha - Zona 1": {
+    "Tenda": [
+      -44,
+      -49
+    ],
+    "Archer": [
+      -71,
+      -73
+    ]
+  },
+  "Cozinha - Zona 2": {
+    "Tenda": [
+      -21,
+      -25
+    ],
+    "Archer": [
+      -71,
+      -73
+    ]
+  },
+  "Cozinha - Zona 3": {
+    "Tenda": [
+      -38,
+      -48
+    ],
+    "Archer": [
+      -71,
+      -73
+    ]
+  },
+  "Varanda - Zona 1": {
+    "Tenda": [
+      -48,
+      -52
+    ],
+    "Archer": [
+      -73,
+      -74
+    ]
+  },
+  "Varanda - Zona 2": {
+    "Tenda": [
+      -52,
+      -67
+    ],
+    "Archer": [
+      -54,
+      -56
+    ]
+  },
+  "Varanda - Zona 3": {
+    "Tenda": [
+      -69,
+      -71
+    ],
+    "Archer": [
+      -56,
+      -61
+    ]
+  },
+  "Varanda - Zona 4": {
+    "Tenda": [
+      -71,
+      -81
+    ],
+    "Archer": [
+      -53,
+      -56
+    ]
+  },
+  "Varanda - Zona 5": {
+    "Tenda": [
+      -71,
+      -81
+    ],
+    "Archer": [
+      -53,
+      -56
+    ]
+  },
+  "Varanda - Zona 6": {
+    "Tenda": [
+      -69,
+      -71
+    ],
+    "Archer": [
+      -58,
+      67
+    ]
+  },
+  "Varanda - Zona 7": {
+    "Tenda": [
+      -69,
+      -71
+    ],
+    "Archer": [
+      -58,
+      -67
+    ]
+  },
+  "Varanda - Zona 8": {
+    "Tenda": [
+      -67,
+      -120
+    ],
+    "Archer": [
+      -58,
+      -61
+    ]
+  },
+  "Banheiro": {
+    "Tenda": [
+      -31,
+      -40
+    ],
+    "Archer": [
+      -67,
+      -80
+    ]
+  },
+  "Sala - Zona 1": {
+    "Tenda": [
+      -57,
+      -59
+    ],
+    "Archer": [
+      -66,
+      -70
+    ]
+  },
+  "Sala - Zona 2": {
+    "Tenda": [
+      -61,
+      -67
+    ],
+    "Archer": [
+      -57,
+      -60
+    ]
+  },
+  "Sala - Zona 3": {
+    "Tenda": [
+      -66,
+      69
+    ],
+    "Archer": [
+      -51,
+      -64
+    ]
+  },
+  "Sala - Zona 4": {
+    "Tenda": [
+      -68,
+      -70
+    ],
+    "Archer": [
+      -46,
+      -55
+    ]
+  },
+  "Corredor - Zona 1": {
+    "Tenda": [
+      -43,
+      -48
+    ],
+    "Archer": [
+      -70,
+      -72
+    ]
+  },
+  "Corredor - Zona 2": {
+    "Tenda": [
+      -57,
+      -63
+    ],
+    "Archer": [
+      -66,
+      -70
+    ]
+  },
+  "Corredor - Zona 3": {
+    "Tenda": [
+      -57,
+      -63
+    ],
+    "Archer": [
+      -59,
+      -69
+    ]
+  },
+  "Quarto 1": {
+    "Tenda": [
+      -57,
+      -63
+    ],
+    "Archer": [
+      -64,
+      -68
+    ]
+  },
+  "Quarto 2 - Zona 1": {
+    "Tenda": [
+      -67,
+      -71
+    ],
+    "Archer": [
+      -19,
+      -30
+    ]
+  },
+  "Quarto 2 - Zona 2": {
+    "Tenda": [
+      -71,
+      -73
+    ],
+    "Archer": [
+      -30,
+      -40
+    ]
+  },
+  "Quarto 2 - Zona 3": {
+    "Tenda": [
+      -68,
+      -69
+    ],
+    "Archer": [
+      -45,
+      -67
+    ]
+  }
+}

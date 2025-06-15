@@ -1,0 +1,35 @@
+Área,Subzona,Zona de Proximidade,RSSI_Tenda (dBm),RSSI_Archer (dBm)
+Escada,Escada 1,Area Externa,69,73
+Escada,Escada 2,Area Externa,69,73
+Escada,Escada 3,Varanda,69,73
+Area Externa,Area Externa 1,Escada,57-63,73-78
+Area Externa,Area Externa 2,Varanda,48-52,73-74
+Area Externa,Area Externa 3,Cozinha,45-47,65-72
+Cozinha,Cozinha 1,Area Externa,38-48,65-71
+Cozinha,Cozinha 2,Banheiro,21(Base),71-73
+Cozinha,Cozinha 3,Corredor,44-49,71-73
+Banheiro,Banheiro 1,Cozinha,31-40,67-80
+Banheiro,Banheiro 2,Corredor,31-41,67-81
+Banheiro,Banheiro 3,Sala,31-42,67-82
+Banheiro,Banheiro 4,Varanda,31-43,67-83
+Corredor,Corredor 1,Cozinha,57-63,59-69
+Corredor,Corredor 2,Sala,57-64,59-70
+Corredor,Corredor 3,Banheiro,57-64,59-70
+Corredor,Corredor 4,Quarto Azul,57-64,59-70
+Quarto Azul,Quarto Azul 1,Corredor,57-63,64-68
+Quarto Azul,Quarto Azul 2,Varanda,57-63,64-68
+Quarto Azul,Quarto Azul 3,Quarto Vermelho,57-63,64-68
+Quarto Vermelho,Quarto Vermelho 1,Quarto Azul,67-71,22-30
+Quarto Vermelho,Quarto Vermelho 2,Sala,67-71,19(Base)
+Quarto Vermelho,Quarto Vermelho 3,Varanda,67-71,22-30
+Quarto Vermelho,Quarto Vermelho 4,Varanda,68-71,45-67
+Sala,Sala 1,Corredor,57-59,66-70
+Sala,Sala 2,Corredor,57-60,51-64
+Sala,Sala 3,Quarto Vermelho,68-70,46-55
+Sala,Sala 4,Varanda,68-71,46-55
+Varanda,Varanda 1,Escada,69-70,58-60
+Varanda,Varanda 2,Cozinha,52-67,54-56
+Varanda,Varanda 3,Sala,69-71,56-61
+Varanda,Varanda 4,Quarto Vermelho,71-81,53-56
+Varanda,Varanda 5,Quarto Vermelho,71-81,58-67
+Varanda,Varanda 6,Quarto Azul,Perda,58-61

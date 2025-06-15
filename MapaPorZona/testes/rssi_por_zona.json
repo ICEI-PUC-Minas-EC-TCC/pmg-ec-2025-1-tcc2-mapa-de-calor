@@ -1,0 +1,112 @@
+{
+  "Escada": {
+    "Tenda": [
+      -60,
+      -70
+    ],
+    "Archer": [
+      -80,
+      -90
+    ]
+  },
+  "Escada 2": {
+    "Tenda": [
+      -70,
+      -80
+    ],
+    "Archer": [
+      -85,
+      -95
+    ]
+  },
+  "\u00c1rea Externa": {
+    "Tenda": [
+      -80,
+      -90
+    ],
+    "Archer": [
+      -85,
+      -95
+    ]
+  },
+  "Cozinha": {
+    "Tenda": [
+      -14,
+      -20
+    ],
+    "Archer": [
+      -56,
+      -86
+    ]
+  },
+  "Varanda": {
+    "Tenda": [
+      -40,
+      -50
+    ],
+    "Archer": [
+      -60,
+      -70
+    ]
+  },
+  "Varanda Externa": {
+    "Tenda": [
+      -80,
+      -90
+    ],
+    "Archer": [
+      -85,
+      -95
+    ]
+  },
+  "Banheiro": {
+    "Tenda": [
+      -30,
+      -40
+    ],
+    "Archer": [
+      -50,
+      -60
+    ]
+  },
+  "Sala": {
+    "Tenda": [
+      -10,
+      -18
+    ],
+    "Archer": [
+      -50,
+      -60
+    ]
+  },
+  "Corredor": {
+    "Tenda": [
+      -20,
+      -30
+    ],
+    "Archer": [
+      -45,
+      -55
+    ]
+  },
+  "Quarto 1": {
+    "Tenda": [
+      -25,
+      -35
+    ],
+    "Archer": [
+      -48,
+      -58
+    ]
+  },
+  "Quarto 2": {
+    "Tenda": [
+      -22,
+      -32
+    ],
+    "Archer": [
+      -46,
+      -56
+    ]
+  }
+}

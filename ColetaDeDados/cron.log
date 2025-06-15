@@ -1,0 +1,2440 @@
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+91944 packets captured
+92242 packets received by filter
+0 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+53892 packets captured
+54035 packets received by filter
+0 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+56765 packets captured
+56969 packets received by filter
+0 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: mon0: No such device exists
+(No such device exists)
+scp: /tmp/captura.pcap: No such file or directory
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 192.168.1.1 port 22
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+client_loop: send disconnect: Broken pipe
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: mon0: No such device exists
+(No such device exists)
+scp: /tmp/captura.pcap: No such file or directory
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+8036 packets captured
+8155 packets received by filter
+0 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+9719 packets captured
+9800 packets received by filter
+0 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 192.168.1.1 port 22
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+5956 packets captured
+12461 packets received by filter
+5110 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+4098 packets captured
+4177 packets received by filter
+0 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+tcpdump: listening on mon0, link-type IEEE802_11_RADIO (802.11 plus radiotap header), snapshot length 262144 bytes
+Maximum file limit reached: 1
+5434 packets captured
+37348 packets received by filter
+31758 packets dropped by kernel
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+ssh: connect to host 192.168.1.1 port 22: Connection refused
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+ssh: connect to host 192.168.1.1 port 22: Connection timed out
+
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+[*] Iniciando captura no roteador...
+[*] Baixando arquivo capturado para o host...
+[*] Processando com PyShark...
+[✓] Concluído.
