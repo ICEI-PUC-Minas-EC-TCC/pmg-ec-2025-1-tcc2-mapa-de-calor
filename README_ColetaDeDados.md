@@ -124,4 +124,4 @@ docker-compose run --rm app
 - Apenas os campos **endereço MAC  e RSSI** são processados.
 - Os **MACs de dispositivos utilizados no experimento** (3 do Archer e 3 do Tenda) **são exibidos em texto claro**, pois são essenciais para validação e análise dos testes.
 
-> ⚠️ Com uma simples alteração no código (`coletor.py`), é possível anonimizar **todos os MACs**, inclusive os usados nos testes. Essa configuração pode ser ajustada conforme a política de privacidade ou o ambiente de aplicação, isso implica em alterações no codigo do arquviso da pasta de MapaZona
+> ⚠️ Com uma simples alteração no código (`coletor.py`), é possível anonimizar **todos os MACs**, inclusive os usados nos testes. Essa configuração pode ser ajustada conforme a política de privacidade ou o ambiente de aplicação, isso implica em alterações no codigo do arquivos da pasta de MapaZona
