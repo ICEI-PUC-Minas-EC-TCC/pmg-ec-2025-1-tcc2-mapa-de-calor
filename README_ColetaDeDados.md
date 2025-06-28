@@ -126,4 +126,4 @@ docker-compose run --rm app
 - **Todos os demais MACs são anonimizados automaticamente** usando hash (SHA-256 truncado).
 - O campo **SSID é forçado como "N/A"** para evitar qualquer identificação indireta de dispositivos.
 
-> ⚠️ Com uma simples alteração no código (`coletor.py`), é possível anonimizar **todos os MACs**, inclusive os usados nos testes. Essa configuração pode ser ajustada conforme a política de privacidade ou o ambiente de aplicação.
+> ⚠️ Com uma simples alteração no código (`coletor.py`), é possível anonimizar **todos os MACs**, inclusive os usados nos testes. Essa configuração pode ser ajustada conforme a política de privacidade ou o ambiente de aplicação, isso implica em alterações no codigo do arquviso da pasta de MapaZona
