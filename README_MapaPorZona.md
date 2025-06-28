@@ -1,5 +1,4 @@
 
-````markdown
 #  MapaPorZona
 
 Este projeto implementa um sistema modular de monitoramento de ocupação em ambientes físicos, utilizando captura passiva de pacotes Wi-Fi, técnicas de aprendizado de máquina e visualização em mapas de calor vetorizados. A solução foi desenvolvida como parte de um Trabalho de Conclusão de Curso no Instituto de Ciências Exatas e Informática da PUC Minas.
