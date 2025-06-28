@@ -1,4 +1,4 @@
-# 📡 Coleta de Dados Wi-Fi via OpenWRT
+# Coleta de Dados Wi-Fi via OpenWRT
 
 Este módulo é responsável por capturar pacotes Wi-Fi 802.11 via roteador com OpenWRT em modo monitor, transferir os arquivos capturados para o host local e processar os dados usando PyShark.
 
