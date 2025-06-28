@@ -100,21 +100,5 @@ docker-compose up
 5. Gere o mapa de calor com `mp_calor_kerasC.py`.
 6. Visualize os resultados em `desenhar_mp_zonas.py`.
 
----
 
-## 📜 Licença
-
-Este projeto é distribuído sob uma licença livre para fins acadêmicos e científicos. Cite a fonte original ao utilizar ou modificar este trabalho.
-
----
-
-## 👥 Autores
-
-Projeto desenvolvido por alunos do curso de Engenharia de Computação da PUC Minas, sob orientação dos professores Gabriel Barbosa da Fonseca e Marta Dias Moreira Noronha.
-
-```
-
----
-
-Se quiser, posso gerar o `requirements.txt` para você com base nas bibliotecas citadas no artigo. Deseja isso agora?
 ```
