@@ -1,4 +1,4 @@
-# 📡 Coleta de Dados Wi-Fi via OpenWRT
+#  Coleta de Dados Wi-Fi via OpenWRT
 
 Este módulo é responsável por capturar pacotes Wi-Fi 802.11 via roteador com OpenWRT em modo monitor, transferir os arquivos capturados para o host local e processar os dados usando PyShark.
 
@@ -121,9 +121,7 @@ docker-compose run --rm app
 
 ## 🔐 Privacidade e LGPD
 
-- Apenas os campos **endereço MAC (com exceções) e RSSI** são processados.
+- Apenas os campos **endereço MAC  e RSSI** são processados.
 - Os **MACs de dispositivos utilizados no experimento** (3 do Archer e 3 do Tenda) **são exibidos em texto claro**, pois são essenciais para validação e análise dos testes.
-- **Todos os demais MACs são anonimizados automaticamente** usando hash (SHA-256 truncado).
-- O campo **SSID é forçado como "N/A"** para evitar qualquer identificação indireta de dispositivos.
 
 > ⚠️ Com uma simples alteração no código (`coletor.py`), é possível anonimizar **todos os MACs**, inclusive os usados nos testes. Essa configuração pode ser ajustada conforme a política de privacidade ou o ambiente de aplicação.

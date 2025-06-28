@@ -1,5 +1,4 @@
 
-````markdown
 #  MapaPorZona
 
 Este projeto implementa um sistema modular de monitoramento de ocupação em ambientes físicos, utilizando captura passiva de pacotes Wi-Fi, técnicas de aprendizado de máquina e visualização em mapas de calor vetorizados. A solução foi desenvolvida como parte de um Trabalho de Conclusão de Curso no Instituto de Ciências Exatas e Informática da PUC Minas.
@@ -103,5 +102,19 @@ docker-compose up
 
 ---
 
+## 📜 Licença
 
+Este projeto é distribuído sob uma licença livre para fins acadêmicos e científicos. Cite a fonte original ao utilizar ou modificar este trabalho.
+
+---
+
+## 👥 Autores
+
+Projeto desenvolvido por alunos do curso de Engenharia de Computação da PUC Minas, sob orientação dos professores Gabriel Barbosa da Fonseca e Marta Dias Moreira Noronha.
+
+```
+
+---
+
+Se quiser, posso gerar o `requirements.txt` para você com base nas bibliotecas citadas no artigo. Deseja isso agora?
 ```
